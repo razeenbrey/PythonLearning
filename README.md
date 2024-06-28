@@ -184,10 +184,6 @@ A text formatting program to manipulate given references into standardised ones.
 
 An introduction to text formatting. Prints a sequence of 7 numbers starting at the user-specified value. Numbers are printed right-justified with a field width of 2.
 
-## secret.py
-
-DELETE
-
 ## secret_2.py
 
 A classic guess the number program.
